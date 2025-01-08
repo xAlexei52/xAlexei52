@@ -40,7 +40,7 @@ const ricardo = {
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xAlexei52&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-xAlexei52&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAlexei52&layout=compact&theme=radical)
 </div>
 
 ### 🌱 Actualmente aprendiendo
