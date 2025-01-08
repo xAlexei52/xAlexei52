@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ricardo Alexei
+# ¡Hola! 👋 Soy Alexei
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-¡Qué onda! Soy un dev full stack apasionado por crear cosas increíbles con código. Me encanta enfrentarme a nuevos retos y aprender tecnologías nuevas. Cuando no estoy codeando, probablemente me encuentres explorando nuevas tecnologías o planeando mi próximo proyecto.
+¡Hola! Soy un dev full stack apasionado por crear cosas increíbles con código. Me encanta enfrentarme a nuevos retos y aprender tecnologías nuevas. Cuando no estoy codeando, probablemente me encuentres explorando nuevas tecnologías o planeando mi próximo proyecto.
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -24,7 +24,6 @@ const ricardo = {
     tools: ['Docker', 'Git', 'Azure', 'Linux']
   },
   currentFocus: 'Construyendo aplicaciones web escalables y eficientes',
-  funFact: '¡Mi código es como mi café: fuerte y bien estructurado! ☕'
 };
 ```
 
@@ -39,15 +38,15 @@ const ricardo = {
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xAlexei52&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-xAlexei52&layout=compact&theme=radical)
 </div>
 
 ### 🌱 Actualmente aprendiendo
 
 - Profundizando en arquitecturas cloud
-- Mejorando mis habilidades en NestJS
+- Mejorando mis habilidades en AWS Lambda y Python
 - Explorando nuevas características de TypeScript
 
 ### 💬 Contáctame
